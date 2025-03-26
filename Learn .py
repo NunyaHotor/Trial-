@@ -5,9 +5,9 @@ name = input ('Whats your name? ' )    .strip().title()
 name = name.strip().title()
 
 
-#name = name.capitalize()
+name = name.capitalize()
 
-#name = name.title()
+name = name.title()
 
 #
 #print('You are welcome to TeachPay', name)
